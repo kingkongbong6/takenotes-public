@@ -29,11 +29,19 @@ source: Материалы/ПР2/Практическая работа №2. С�
 ## Требования
 
 - [ ] Создать композицию размером 1600×1000.
-- [ ] Открыть `Материалы/ПР2/01_background.jpg` и сохранить рабочий файл как `work/signal_archive_02.xcf`.
-- [ ] Импортировать через **Open as Layers** файлы `02_structural_panel.png`–`09_metadata_badge.png`.
+- [ ] Открыть [01_background.jpg](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/01_background.jpg) и сохранить рабочий файл как `work/signal_archive_02.xcf`.
+- [ ] Импортировать через **Open as Layers** следующие файлы:
+  - [02_structural_panel.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/02_structural_panel.png);
+  - [03_scanner_device.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/03_scanner_device.png);
+  - [04_signal_orbits.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/04_signal_orbits.png);
+  - [05_grid_overlay.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/05_grid_overlay.png);
+  - [06_title_block.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/06_title_block.png);
+  - [07_accent_marker.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/07_accent_marker.png);
+  - [08_surface_texture.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/08_surface_texture.png);
+  - [09_metadata_badge.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/09_metadata_badge.png).
 - [ ] Назвать слои по назначению и разложить их по группам `BG`, `SYSTEM`, `SUBJECT`, `ACCENTS`, `INFO`.
 - [ ] Оставить главный объект поверх фона, орбиты — позади него, а информационные блоки — читаемыми.
-- [ ] Импортировать `07_accent_marker.png` один раз, назвать слой `marker_01`, создать `marker_02` и `marker_03` через Duplicate; одну копию повернуть.
+- [ ] Импортировать [07_accent_marker.png](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/07_accent_marker.png) один раз, назвать слой `marker_01`, создать `marker_02` и `marker_03` через Duplicate; одну копию повернуть.
 - [ ] Настроить непрозрачность сетки примерно в диапазоне 20–45 %, подобрать непрозрачность текстуры и заблокировать фон.
 - [ ] Проверить скрытие и отображение групп слоёв.
 - [ ] Сохранить рабочий XCF без сведения слоёв.
@@ -46,4 +54,4 @@ source: Материалы/ПР2/Практическая работа №2. С�
 - [ ] Краткий ответ из 3–5 предложений о преимуществах слоёв.
 - [ ] Отчёт.
 
-Референсы не вставлять в рабочий XCF.
+Референсы [00_reference_target.jpg](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/00_reference_target.jpg) и [00_reference_alternative.jpg](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9F%D0%A02/00_reference_alternative.jpg) не вставлять в рабочий XCF.
